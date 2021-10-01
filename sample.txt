@@ -1,2 +1,3 @@
 tis is the second ile tat impushing aer a long time:wq
-this is te push to test te second line 
+this is te push to test te second line
+tis is thethird lne im pusing to te git
